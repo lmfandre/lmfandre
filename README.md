@@ -12,9 +12,10 @@ Um pouco sobre mim<br/>
 
 <div class="badger-icon">
     <a href="https://madhurimarawat.github.io/Badger-Icons/" target="_blank">
-        <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-2-transparent.png" title="Transparent Icon for Data Scientist" alt="concept-icon-2-transparent.png" width="100" height="100">
+        <img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/job_roles/data_scientist/concept-icon-2-transparent.webp" title="Transparent Icon for the Data Scientist role." alt="concept-icon-2-transparent.webp" width="100" height="100">
     </a>
 </div>
+
 
 # Habilidades
 <div style="display: inline_block">
